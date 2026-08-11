@@ -1,4 +1,3 @@
-Here's a cleaner, more professional README suitable for GitHub and your resume.
 
 ---
 
@@ -113,7 +112,6 @@ Business drivers influencing locality rankings:
 * Income
 * Competition
 
-This page explains *why* certain markets outperform others rather than simply displaying rankings.
 
 ---
 
