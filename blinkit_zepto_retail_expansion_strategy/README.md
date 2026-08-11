@@ -5,7 +5,6 @@
 ## Objective
 Identify high-potential Delhi localities for quick-commerce expansion using a structured, data-driven market prioritization framework.
 
-> **Important:** This is an independent portfolio project. The locality-level dataset is **synthetic / modeled for demonstration**, not proprietary Blinkit or Zepto data. The analysis demonstrates the decision-making methodology a strategy/analytics team could use with real market data.
 
 ## Business question
 If a quick-commerce player has limited dark-store / micro-fulfilment capacity, **which Delhi localities should be evaluated first for expansion?**
@@ -73,17 +72,6 @@ The recommended expansion process is therefore:
 
 **Screen → Score → Prioritize → Validate on-ground → Pilot → Scale**
 
-## Suggested real-world validation before investment
-For a production decision, replace modeled inputs with:
-- Search / footfall data
-- Existing dark-store coverage
-- Delivery-time heatmaps
-- Order density
-- Competitor store density
-- Household income / demographic data
-- Commercial rent estimates
-- Traffic and road-access constraints
-- Historical order frequency and basket size
 
 ## Repository structure
 
