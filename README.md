@@ -1,79 +1,215 @@
-Retail Expansion Strategy — Blinkit / Zepto
-Independent market strategy project | Delhi NCR
+Here's a cleaner, more professional README suitable for GitHub and your resume.
 
-Objective
-Identify high-potential Delhi localities for quick-commerce expansion using a structured, data-driven market prioritization framework.
+---
 
-Business question
-If a quick-commerce player has limited dark-store / micro-fulfilment capacity, which Delhi localities should be evaluated first for expansion?
+# Retail Expansion Strategy — Blinkit / Zepto
 
-What I built
-Modeled a dataset covering 120 Delhi localities
-Evaluated demand, household/income attractiveness, online-grocery propensity, delivery accessibility, competition and commercial-rent pressure
-Created a weighted Expansion Score
-Segmented localities into Priority 1, Priority 2, Watchlist and Low Priority
-Prepared data for a Power BI dashboard covering market opportunity, competitive intensity and expansion recommendations
-Decision framework
-Factor	Weight	Why it matters
-Demand Index	32%	Captures underlying order potential
-Online Grocery Index	20%	Indicates digital grocery adoption
-Delivery Accessibility	18%	Indicates operational feasibility
-Income Index	16%	Proxy for purchasing power
-Competition Gap	14%	Rewards markets with lower competitive intensity
-Expansion Score = 0.32×Demand + 0.20×Online Grocery + 0.18×Accessibility + 0.16×Income + 0.14×(100−Competition)
+**Independent Market Strategy & Data Analytics Project | Delhi NCR**
 
-Priority rules
-Priority 1: Score ≥ 78
-Priority 2: 70–77.9
-Watchlist: 62–69.9
-Low Priority: < 62
-Power BI dashboard
-Build the dashboard with data/delhi_locality_expansion_data.csv.
+## Overview
 
-Page 1 — Market Overview
-KPI cards:
+This project simulates how a quick-commerce company such as **Blinkit** or **Zepto** could prioritize expansion into new Delhi localities using a structured, data-driven decision framework.
 
-Total localities
-Average expansion score
-Number of Priority 1 zones
-Average demand index
-Charts:
+Instead of selecting locations based solely on demand, the model evaluates multiple business and operational factors to identify markets with the highest expansion potential.
 
-Expansion score by locality
-Average score by Delhi zone
-Demand vs competition scatter plot
-Page 2 — Expansion Prioritization
-Use:
+---
 
-Map / locality table
-Conditional formatting by Priority Tier
-Top 15 locality ranking
-Slicers for Zone and Priority Tier
-Page 3 — Decision Drivers
-Use a scatter plot or decomposition-style visual to show:
+## Business Problem
 
-Demand
-Online grocery adoption
-Accessibility
-Competition
-Income
-Key strategic interpretation
-The model intentionally avoids choosing locations on demand alone. A locality can have strong demand but still be unattractive if competitive intensity is high or operational accessibility is weak.
+Quick-commerce companies operate with limited **dark stores**, delivery fleets, and capital.
 
-The recommended expansion process is therefore:
+**Business Question**
 
-Screen → Score → Prioritize → Validate on-ground → Pilot → Scale
+> If a quick-commerce company has limited expansion capacity, which Delhi localities should be prioritized for opening new dark stores?
 
-Repository structure
+To answer this, I developed a scoring framework that ranks localities based on market attractiveness and operational feasibility.
+
+---
+
+## Project Objectives
+
+* Analyze 120 Delhi NCR localities
+* Measure demand and digital grocery adoption
+* Evaluate operational accessibility
+* Assess purchasing power and competition
+* Build an Expansion Score for each locality
+* Classify markets into actionable priority tiers
+* Visualize insights using Power BI
+
+---
+
+## Methodology
+
+Each locality is evaluated across five key business dimensions.
+
+| Factor                 | Weight | Purpose                             |
+| ---------------------- | ------ | ----------------------------------- |
+| Demand Index           | 32%    | Estimates potential order volume    |
+| Online Grocery Index   | 20%    | Measures digital grocery adoption   |
+| Delivery Accessibility | 18%    | Indicates operational feasibility   |
+| Income Index           | 16%    | Proxy for purchasing power          |
+| Competition Gap        | 14%    | Rewards lower competitive intensity |
+
+### Expansion Score Formula
+
+```text
+Expansion Score =
+0.32 × Demand Index
++ 0.20 × Online Grocery Index
++ 0.18 × Delivery Accessibility
++ 0.16 × Income Index
++ 0.14 × (100 − Competition Index)
+```
+
+---
+
+## Priority Classification
+
+| Tier         | Expansion Score |
+| ------------ | --------------- |
+| Priority 1   | ≥ 78            |
+| Priority 2   | 70 – 77.9       |
+| Watchlist    | 62 – 69.9       |
+| Low Priority | < 62            |
+
+---
+
+## Power BI Dashboard
+
+### Page 1 — Market Overview
+
+**KPIs**
+
+* Total Localities
+* Average Expansion Score
+* Priority 1 Localities
+* Average Demand Index
+
+**Visuals**
+
+* Expansion Score by Locality
+* Average Score by Delhi Zone
+* Demand vs Competition Scatter Plot
+
+---
+
+### Page 2 — Expansion Prioritization
+
+* Ranked Top 15 Expansion Localities
+* Locality Table
+* Priority Tier Heatmap
+* Zone & Priority Filters
+* Interactive Map
+
+---
+
+### Page 3 — Decision Drivers
+
+Business drivers influencing locality rankings:
+
+* Demand
+* Online Grocery Adoption
+* Accessibility
+* Income
+* Competition
+
+This page explains *why* certain markets outperform others rather than simply displaying rankings.
+
+---
+
+## Strategic Insight
+
+The framework intentionally avoids selecting locations based only on demand.
+
+A locality may exhibit high demand but still be unsuitable due to:
+
+* High competitive intensity
+* Poor delivery accessibility
+* Lower purchasing power
+* High operational constraints
+
+The recommended expansion workflow is:
+
+```text
+Screen
+    ↓
+Score
+    ↓
+Prioritize
+    ↓
+Validate On-Ground
+    ↓
+Pilot
+    ↓
+Scale
+```
+
+---
+
+## Repository Structure
+
+```text
 retail-expansion-strategy/
+│
 ├── data/
 │   ├── delhi_locality_expansion_data.csv
 │   ├── top_15_expansion_zones.csv
 │   └── zone_summary.csv
+│
 ├── src/
 │   └── score_localities.py
+│
 ├── docs/
 │   └── powerbi_dashboard_spec.md
+│
+├── dashboard/
+│   └── Retail_Expansion_Dashboard.pbix
+│
+├── screenshots/
+│   ├── overview.png
+│   ├── prioritization.png
+│   └── decision_drivers.png
+│
 └── README.md
-Skills demonstrated
-Market Research · Strategy · Data Analysis · Decision Frameworks · Power BI · Excel/CSV · Competitive Analysis · Business Storytelling
+```
+
+---
+
+## Tech Stack
+
+* Python
+* Pandas
+* NumPy
+* Power BI
+* Excel / CSV
+* Git & GitHub
+
+---
+
+## Key Deliverables
+
+* Market prioritization framework
+* Weighted Expansion Score model
+* Locality ranking engine
+* Power BI executive dashboard
+* Strategy-driven business recommendations
+
+---
+
+## Skills Demonstrated
+
+* Market Research
+* Business Strategy
+* Data Analysis
+* Power BI Dashboarding
+* Decision Framework Design
+* Competitive Analysis
+* Business Storytelling
+* Data Visualization
+* Strategic Thinking
+
+---
+
+## Disclaimer
+
+This is an **independent educational project** created to demonstrate business strategy and data analytics skills. The dataset is modeled for analytical purposes and does not represent proprietary information from Blinkit, Zepto, or any affiliated organization.
