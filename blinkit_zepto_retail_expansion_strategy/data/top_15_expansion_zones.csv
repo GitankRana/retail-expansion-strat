@@ -1,0 +1,16 @@
+Locality,Zone,Demand_Index,Competition_Index,Delivery_Accessibility_Index,Expansion_Score,Priority_Tier
+Vasant Kunj,South,79.2,50.2,69.7,80.1,Priority 1
+Uttam Nagar,West,82.0,33.9,66.4,79.7,Priority 1
+Anand Vihar,East,82.2,54.9,77.4,78.7,Priority 1
+Mukherjee Nagar,Central,78.7,60.2,75.6,78.6,Priority 1
+Barakhamba,Central,93.8,75.1,81.0,78.6,Priority 1
+Punjabi Bagh,West,83.4,40.4,74.3,78.3,Priority 1
+Paharganj,Central,84.7,67.8,69.2,78.0,Priority 2
+Sadar Bazar,Central,81.9,75.5,80.8,77.8,Priority 2
+Greater Kailash 1,South,81.6,41.0,78.3,76.6,Priority 2
+Saket,South,68.9,54.3,64.8,75.9,Priority 2
+Dwarka Sector 6,West,82.1,48.4,67.0,75.6,Priority 2
+Hauz Khas,South,78.0,59.8,82.5,75.4,Priority 2
+Kamla Nagar,Central,74.0,83.5,70.9,75.3,Priority 2
+Sangam Vihar,South,82.8,70.8,65.7,75.2,Priority 2
+Chhatarpur,South,78.9,77.8,67.7,74.7,Priority 2

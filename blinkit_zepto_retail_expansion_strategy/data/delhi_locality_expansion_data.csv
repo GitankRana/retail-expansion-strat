@@ -1,0 +1,121 @@
+,Locality,Zone,Estimated_Households,Income_Index,Population_Density_Index,Online_Grocery_Index,Delivery_Accessibility_Index,Competition_Index,Transit_Accessibility_Index,Demand_Index,Commercial_Rent_Index,Expansion_Score,Priority_Tier
+1,Rohini,North-West,53751,66.6,77,76.7,67.2,55.4,67,73.4,87.4,67.8,Watchlist
+2,Pitampura,North-West,51479,66,85.6,82.4,65.1,52.5,57.4,75.1,77.8,68,Watchlist
+3,Shalimar Bagh,North-West,52681,52.9,74.9,68.4,73.8,41.4,67.6,62.1,77.2,62.4,Watchlist
+4,Model Town,Central,64949,48.4,85.2,87.4,72.3,65.3,84.3,73.1,77.5,68.6,Watchlist
+5,Civil Lines,Central,64954,64.4,93.3,73,77.1,81.3,88.2,78.9,83.5,68.6,Watchlist
+6,Kamla Nagar,Central,51319,79.3,62.8,95.2,70.9,83.5,98,74,95.4,75.3,Priority 2
+7,Mukherjee Nagar,Central,54641,79.3,81.8,87.4,75.6,60.2,98,78.7,95.1,78.6,Priority 1
+8,GTB Nagar,Central,54036,71.5,82.1,79.3,59.9,71.7,72.3,75.6,74.5,68.5,Watchlist
+9,Vijay Nagar,Central,60799,65.1,83.8,87.6,73.6,76.5,98,79.8,85.2,74.4,Priority 2
+10,Hudson Lane,Central,53226,78.4,80.1,92.1,55.3,79.8,79,72.6,91.9,71.2,Priority 2
+11,Kingsway Camp,Central,54958,73.4,83.6,87.2,71.5,88.4,95.6,77.3,81.9,72.7,Priority 2
+12,Burari,Central,54934,60.9,65.3,84.4,69.9,83.2,97,71,82.4,69.2,Watchlist
+13,Sant Nagar,Central,47886,70,80.3,79.8,62.1,81.7,64.3,74.9,75.4,65.3,Watchlist
+14,Timarpur,Central,54569,78,72.1,76.5,75.7,85.6,96.6,75.9,96,71.5,Priority 2
+15,Wazirabad,Central,57649,72.3,84,84.2,63.8,77.1,83.1,78.2,96,71.6,Priority 2
+16,Janakpuri,West,49482,86,73.3,89.1,60.4,69.3,52.6,78.9,94.2,70.6,Priority 2
+17,Dwarka Sector 6,West,52366,81.1,71.7,83.4,67,48.4,69.2,82.1,76.9,75.6,Priority 2
+18,Dwarka Sector 10,West,41207,57.8,64,76.2,47.9,73.9,71.1,65.6,76.7,61.9,Low Priority
+19,Dwarka Sector 12,West,45906,71.8,60.3,82.9,64.9,58.2,76.1,73.7,88,71.2,Priority 2
+20,Dwarka Sector 14,West,46371,71.4,83,59.9,66.2,64,71.2,74,82.2,64.9,Watchlist
+21,Palam,West,39783,52.5,64.4,68,69.6,72,68.5,63.9,78.5,58.7,Low Priority
+22,Dashrath Puri,West,46403,60.4,68.9,67.5,77.1,55.7,79.7,69.8,88.6,66,Watchlist
+23,Uttam Nagar,West,58096,96.2,66,92.2,66.4,33.9,57.7,82,93.5,79.7,Priority 1
+24,Vikaspuri,West,42923,55.5,54,74.8,61,65.6,69.6,62.1,74.2,61.1,Low Priority
+25,Tilak Nagar,North,41349,61.8,64.7,78.9,68.8,44.5,70.7,59.6,85.6,65.2,Watchlist
+26,Rajouri Garden,West,47662,73.6,63.3,77.8,73.3,56.4,82.5,72.5,80.1,71.5,Priority 2
+27,Tagore Garden,West,51858,68.1,72.6,89.9,64.1,58.4,67.2,73.5,81.3,70.3,Priority 2
+28,Subhash Nagar,West,53504,55.6,77.8,80.4,71.2,65.7,78.9,74.1,79.8,67.7,Watchlist
+29,Hari Nagar,West,39889,62,73.8,71.4,73.7,48,67.6,64.9,79.3,64.4,Watchlist
+30,Punjabi Bagh,West,63730,75,90.3,82.9,74.3,40.4,81.5,83.4,79.8,78.3,Priority 1
+31,Paschim Vihar,West,38486,70.4,69.7,69.6,46.9,78.8,60.8,63.3,84.3,59.3,Low Priority
+32,Moti Nagar,West,47894,85.7,72.8,83.7,72.5,63.8,67.4,77.7,96,72.5,Priority 2
+33,Kirti Nagar,West,40249,78.9,58.9,86.8,56.7,62.5,64.5,72.2,81,70,Watchlist
+34,Patel Nagar,West,41019,64.9,49.1,67.8,58,49.2,75.3,59.6,84.3,63.7,Watchlist
+35,Rajendra Place,West,51922,75.7,55.7,88.8,59.9,56.7,68.3,65.2,84.6,69.1,Watchlist
+36,Naraina,West,60051,59.9,82.6,85.4,67.1,63.3,84.3,72.3,89.6,70.1,Priority 2
+37,Mayur Vihar Phase 1,East,64792,51.1,88.5,74.3,83.1,45.9,96.4,71.7,72.2,70.9,Priority 2
+38,Mayur Vihar Phase 2,East,51468,56.1,85.8,70.6,59.3,79.6,68.4,60.8,74.5,57.7,Low Priority
+39,Mayur Vihar Phase 3,East,54487,61.1,77.9,73.7,63.6,69.9,72.2,65.8,85.7,62.8,Watchlist
+40,Preet Vihar,East,45735,72.1,69.2,73.2,78.8,53,80,65.3,96,68,Watchlist
+41,Laxmi Nagar,East,56294,42.6,79,59.4,58.4,65.5,61.9,58.9,81.3,53.5,Low Priority
+42,Nirman Vihar,East,59413,59.1,93,68.9,83.3,49.7,88.6,81.2,83,72.2,Priority 2
+43,Shakarpur,East,54362,75.3,75,87.1,68.5,60.2,70.9,70,96,70.2,Priority 2
+44,Patparganj,East,62402,43.5,91.1,68.3,71.8,61.3,73.8,73.4,65,62.8,Watchlist
+45,IP Extension,East,49082,67.8,88.8,70.9,72,49,78,69.1,84.1,68.3,Watchlist
+46,Anand Vihar,East,51734,82.9,82.2,94.2,77.4,54.9,77.6,82.2,96,78.7,Priority 1
+47,Karkardooma,East,54487,50.9,64.6,74.3,72.1,56.6,86.5,66.5,79.6,65.9,Watchlist
+48,Vivek Vihar,East,55312,59.9,87.1,68.3,77.7,60.2,68.3,69.5,73.3,63.4,Watchlist
+49,Jhilmil,East,70498,56.5,99,69.5,73,62.3,65.7,75.3,81.4,64.1,Watchlist
+50,Dilshad Garden,East,51342,68.8,76.9,76.7,71,57.3,68.3,80.5,88.3,70.4,Priority 2
+51,Shahdara,East,47566,56.3,70,82.2,63.5,83.8,83.7,60.4,77.1,62.1,Watchlist
+52,Krishna Nagar,East,61467,52.3,95.7,76.2,67.7,65,90.1,71.2,68.5,67.5,Watchlist
+53,Geeta Colony,East,65154,49.9,98.1,71,77.7,52.6,79.3,81,88,69,Watchlist
+54,Gandhi Nagar,East,46253,63.9,73.8,72.1,60.8,57.3,73.2,70.3,82.7,66.3,Watchlist
+55,Seelampur,East,41603,65.9,62.9,64.1,59.1,50.6,54.8,62.7,89.3,60.2,Low Priority
+56,Welcome,East,51367,67.8,76.6,74.3,71.2,71.7,85.5,65.8,81.3,66.1,Watchlist
+57,Yamuna Vihar,East,54580,63.9,76.2,73.5,72.7,62.4,85.2,73.4,96,69,Watchlist
+58,Bhajanpura,East,55120,54.7,87.8,74.4,66.9,36.4,52.9,73.1,66.9,65.4,Watchlist
+59,Karawal Nagar,East,55107,45.8,76.2,63.8,56,69,64.3,58.7,75.4,54.8,Low Priority
+60,Kondli,East,52312,46.6,68.8,83.2,71.4,60.2,84.4,61.9,90.7,64.7,Watchlist
+61,Trilokpuri,East,51102,59.5,73.5,85,70.9,63.4,72.7,68.4,57.9,66.6,Watchlist
+62,Vasundhara Enclave,East,50426,49.5,75.7,71.8,68.3,86.8,69.4,69.3,64.5,58.8,Low Priority
+63,Chittaranjan Park,South,48940,85.5,70.8,83.9,73.1,58.3,70.5,76.3,82.4,73.4,Priority 2
+64,Greater Kailash 1,South,43832,77.5,77.6,82.6,78.3,41,73.8,81.6,86.7,76.6,Priority 2
+65,Greater Kailash 2,South,51939,75.3,58.3,83.7,57.5,76.8,80.6,58,89.9,65.1,Watchlist
+66,Kalkaji,North,40582,46.5,50.5,71.2,62.6,50.8,73.3,53.7,67.7,58.9,Low Priority
+67,Nehru Place,North,60613,67.2,74.7,77.3,62.8,54.5,62.5,71.1,83.5,66.6,Watchlist
+68,Govindpuri,North,43194,54.4,56,85.4,69.7,67.8,69.3,64.7,68.8,63.5,Watchlist
+69,Tughlakabad,North,65337,61.9,81.3,68.3,76.8,33.2,66,83.9,65.1,71.6,Priority 2
+70,Saket,South,49805,93.4,60.9,95.3,64.8,54.3,74.7,68.9,84.9,75.9,Priority 2
+71,Malviya Nagar,South,54363,78.3,65.9,79.7,59.6,68.1,78.1,74.8,82.6,71,Priority 2
+72,Hauz Khas,South,54726,84.9,75.8,87.2,82.5,59.8,76.4,78,96,75.4,Priority 2
+73,Green Park,South,49098,86.7,70.3,85.5,73.3,63.2,80.6,71.9,93.1,73.6,Priority 2
+74,Munirka,North,40665,58.3,63,73.5,65.4,37.9,72,64.5,81.7,66.3,Watchlist
+75,Vasant Kunj,South,31342,89.1,48.2,96,69.7,50.2,79.5,79.2,91.5,80.1,Priority 1
+76,Vasant Vihar,South,49478,76.4,76.5,93.4,55.8,63.6,65.3,73.4,82.9,71.3,Priority 2
+77,R K Puram,North,43318,39.1,63.2,68.4,62.1,49.4,56.1,61.7,65.3,56.8,Low Priority
+78,South Extension,South,39508,87.9,59.4,85.7,60.9,63.6,74.1,77.6,96,74.5,Priority 2
+79,Defence Colony,South,44660,77.4,70.4,84.6,75.6,80.1,86.6,75.3,86.1,71.8,Priority 2
+80,Lajpat Nagar,South,45660,92.5,76.8,76.7,58.8,88.7,81.8,73.8,96,70.1,Priority 2
+81,Amar Colony,North,42995,41.3,53.7,82.5,67.8,44.6,54.6,56.3,71.2,58.7,Low Priority
+82,Jangpura,North,45958,48.9,64,68.3,65,54.7,70.8,59.1,69.5,59.5,Low Priority
+83,Jasola,North,54094,68.7,64.7,77.1,72,63.8,54.6,71.2,78.4,64.1,Watchlist
+84,Sarita Vihar,North,60967,66.8,82.2,76.8,77.6,30.4,54.3,78.5,84.4,70.7,Priority 2
+85,Okhla,North,52799,47.4,71,73.3,60.8,62.4,50.8,57.1,65.5,54.9,Low Priority
+86,New Friends Colony,North,48109,62,64.1,76.3,69.9,35.7,60.1,65.1,70.7,65.8,Watchlist
+87,Jamia Nagar,North,59011,53.1,81.8,82.5,66.3,44.5,51.4,70.6,61.6,64.6,Watchlist
+88,Shaheen Bagh,North,51735,53.5,68.1,61.9,65.3,35.4,52,60,72.8,58.6,Low Priority
+89,Batla House,North,38457,60.4,54,87.5,62.7,60.5,89.3,62.5,76.9,68.8,Watchlist
+90,Khan Market,Central,51315,77.5,74.4,81,62.4,83.5,93.7,73.9,84.9,71.4,Priority 2
+91,Lodhi Colony,Central,40112,72.6,65.8,71.6,55.8,70.2,72.3,66.7,66.6,64.5,Watchlist
+92,Sundar Nagar,Central,47779,68,79.1,81.5,82.3,75.9,93.3,71.8,84.7,70.3,Priority 2
+93,Chanakyapuri,Central,55787,80.4,85.4,87.4,73.9,68.5,82.6,77.3,85,74.4,Priority 2
+94,Dhaula Kuan,Central,49752,63.6,68.7,76.6,64,70.4,92.8,71.7,81.1,69.3,Watchlist
+95,Naraina Vihar,West,47931,72,71.3,81.4,57.6,63.4,60.2,71.8,86.8,66.8,Watchlist
+96,Shadipur,West,63179,56.5,91.4,75.6,67.3,59,63.2,77.6,78.4,66.1,Watchlist
+97,West Patel Nagar,West,43482,60.8,73.8,67.6,62.2,58.9,61.2,59.7,77.8,59.1,Low Priority
+98,Karol Bagh,Central,56495,57.2,77.1,70.4,69.8,66.3,69.5,62.7,80,60.5,Low Priority
+99,Paharganj,Central,53022,76.6,85.7,89.2,69.2,67.8,90.4,84.7,96,78,Priority 2
+100,Connaught Place,Central,43875,62.4,61.1,78.7,70.6,57.3,84.9,68.4,70.8,68.9,Watchlist
+101,Barakhamba,Central,65392,75.5,99,88.4,81,75.1,85.2,93.8,96,78.6,Priority 1
+102,Daryaganj,Central,56374,81.5,84.7,78.2,54.2,80.8,62.9,76.1,92.2,67,Watchlist
+103,Chawri Bazar,Central,50416,85.7,75.7,91.7,64.8,94.5,79.7,80.2,85.1,72.8,Priority 2
+104,Sadar Bazar,Central,51956,78.3,73.3,89.9,80.8,75.5,98,81.9,77,77.8,Priority 2
+105,Kashmere Gate,Central,48342,70,67.2,89.2,70.7,70.3,86.9,69.4,79.5,71,Priority 2
+106,Civil Lines Extension,Central,47311,72.6,77,82,63.6,88.9,88.6,76.2,96,69.9,Watchlist
+107,Narela,North-West,57613,47.8,80.3,76.5,91.4,50.1,89.4,78,62.6,71,Priority 2
+108,Bawana,North-West,47940,51.7,73.4,60.7,58.9,47.3,49.3,63.8,82.8,57.1,Low Priority
+109,Mundka,West,48378,77.1,65.9,93.3,69.9,55.1,73.8,69.3,96,72.8,Priority 2
+110,Najafgarh,South-West,44397,72.6,53.4,79.9,55.2,26.8,32.7,64.1,84.9,64.2,Watchlist
+111,Nangloi,West,46462,67.9,67.5,71.3,76.2,47.7,76.9,69.2,75.1,68.5,Watchlist
+112,Rithala,North-West,58711,57.6,81,75.6,63.7,60.9,63.5,68.5,74.1,63.2,Watchlist
+113,Begampur,North-West,58361,48.4,71,65.7,58.9,55.2,54.4,54.7,73.5,54.4,Low Priority
+114,Mangolpuri,North-West,58712,44.2,88.9,62.2,78.7,22.8,66.3,65.6,67.8,63.2,Watchlist
+115,Sultanpuri,North-West,65695,54.1,87,78.3,72.2,55.9,76.4,75.7,77.9,68.4,Watchlist
+116,Budh Vihar,North-West,54388,52.2,81.6,68,85.3,44.6,72.5,69.4,81.7,64.9,Watchlist
+117,Sangam Vihar,South,44397,81,75.5,93.5,65.7,70.8,72,82.8,96,75.2,Priority 2
+118,Deoli,South,54234,81.9,80.8,68.7,71.1,77,77.8,72.7,96,67.3,Watchlist
+119,Mehrauli,South,54356,70,61.9,77.3,67.6,51.1,80,67.6,82.8,69.5,Watchlist
+120,Chhatarpur,South,55355,87.5,78.1,91.8,67.7,77.8,77.9,78.9,87,74.7,Priority 2
